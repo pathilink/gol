@@ -18,4 +18,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-FF6F1F.svg)](https://opensource.org/licenses/MIT)
+
+## Made with
+
+<p>
+
+<img alt="python" src="https://img.shields.io/badge/-Python-FF6F1F?style=flat&logo=python&logoColor=white" />
+
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-FF6F1F?style=flat&logo=Jupyter&logoColor=white" />
+
+</p>
